@@ -1,0 +1,14 @@
+from PyPDF2 import PdfReader
+
+
+text = ""
+pageNumber = 0
+
+pdf = PdfReader('fullbook.pdf')
+for page in pdf.pages:
+    print("---------- PAGE " + str(pageNumber+1) + " ----------")
+    page = pdf.pages[pageNumber]
+    text = page.extract_text() + "\n\n\n\n"
+    text = text.replace(str(pageNumber+1), "")
+    print(text)
+    pageNumber += 1
