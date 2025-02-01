@@ -28,8 +28,6 @@ This repository contains Python scripts for performing Optical Character Recogni
 - The script will extract text from each page of the PDF and display the result.
 
 ## Contact 📧
-
-If you have any questions or would like to inquire about our services, feel free to contact us:
-
+If you have any questions or comments, feel free to contact me:
 - **Email**: lautaroreche1@gmail.com
 - **LinkedIn**: [lautaroreche](https://www.linkedin.com/in/lautaroreche/)
