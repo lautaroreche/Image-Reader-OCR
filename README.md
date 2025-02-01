@@ -27,6 +27,9 @@ This repository contains Python scripts for performing Optical Character Recogni
 - Run the script `pdf_reader.py`.
 - The script will extract text from each page of the PDF and display the result.
 
-## Contribution 🎁
+## Contact 📧
 
-Contributions are welcome! If you'd like to improve these scripts or add new features, feel free to submit a pull request.
+If you have any questions or would like to inquire about our services, feel free to contact us:
+
+- **Email**: lautaroreche1@gmail.com
+- **LinkedIn**: [lautaroreche](https://www.linkedin.com/in/lautaroreche/)
